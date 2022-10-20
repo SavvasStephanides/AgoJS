@@ -1,0 +1,1 @@
+docker run -it --rm -v $PWD:/root/agojs -w /root/agojs node:16 yarn minify
